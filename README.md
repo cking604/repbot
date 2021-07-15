@@ -18,7 +18,6 @@ Find repbot in Apps section of Slack under 'Add apps'
   Add to channel that you want it to monitor or just test by talking to repbot in it app channel and like your own message
 
 # Available Slack actions
-
-`/rep` - show points
-`/repstore create [title] [description] [cost]` - create store item
-`/repstore list` - list items for purchasing
+- `/rep` - show points
+- `/repstore create [title] [description] [cost]` - create store item
+- `/repstore list` - list items for purchasing
